@@ -1,0 +1,7 @@
+{
+    "protocol": "#PROTOCOL#",
+    "url": "#URL#",
+    "port": "#PORT#",
+    "service_port": "#SERVICE_PORT#",
+    "source": "#source#"
+}
